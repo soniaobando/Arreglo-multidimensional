@@ -1,0 +1,4 @@
+Línea 1: Realizo a tarea.
+Línea 2: siguiendo instruccion del ingeniero el phython.
+Línea 3: Otro ejemplo.
+Línea 4: Finalizando el ejemplo.
